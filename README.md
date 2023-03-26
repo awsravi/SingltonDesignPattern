@@ -2,4 +2,4 @@
 SingltonDesignPattern with examples 
 Singleton
 BreakSingleton
-
+SingletonDoubleCheck
