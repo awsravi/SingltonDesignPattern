@@ -1,0 +1,2 @@
+# SingltonDesignPattern
+SingltonDesignPattern with examples 
